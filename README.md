@@ -1,32 +1,29 @@
-# Hi there, I'm <Your Name>! 👋
+# Hi there, I'm Aditya! 👋
 
-I'm a **Software Engineer** specializing in <Area of Expertise, e.g., Low-Level Systems / Full Stack Development>. I enjoy building efficient, scalable tools and diving into complex technical challenges.
+I'm a **Software Engineer** specializing in Low-Level Systems and ML Infrastructure. I enjoy building efficient tools and diving into hardware-software co-design.
 
 ### 🚀 What I'm working on
-- 🔭 **Current Project:** [<Project Name>](link) - <Brief description of what it does>.
-- ⚡ **Recent Achievement:** Graduated from <University> / Completed <Certification>.
-- 🌱 **Learning:** Currently diving deeper into <Technology, e.g., Kernel Optimization or Rust>.
-- 🏗️ **In Development:** Building <Project Name>, a platform for <Goal>.
+- 🔭 **Current Project:** [Sift](https://github.com/aditya-r123/sift) - A music discovery platform with a swipe-based interface.
+- ⚡ **Recent Achievement:** Graduated from UCLA / Joining AWS Annapurna Labs.
+- 🌱 **Learning:** Deepening my knowledge in Kernel Optimization and Distributed Systems.
 
 ### 💻 Technical Skills
 | Category | Tools & Languages |
 | :--- | :--- |
 | **Languages** | C, C++, Python, Java, JavaScript |
 | **Infrastructure** | AWS, Docker, Kubernetes, Linux |
-| **Specialized** | Distributed Systems, ML Infrastructure, Hardware Acceleration |
-| **Tools** | Git, LaTeX, Vim/VS Code |
+| **Specialized** | Hardware Acceleration (FPGA), Distributed Systems, ML Infra |
+| **Tools** | Git, LaTeX, Vim, Overleaf |
 
 ### 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=<your-username>&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<your-username>&layout=compact&theme=tokyonight)
+![Aditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aditya-r123&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-r123&layout=compact&theme=tokyonight)
 
 ### 🎵 Beyond the Code
-When I'm not at a keyboard, you can find me:
-* ⛰️ **Hiking:** Exploring strenuous trails and mountain peaks.
-* 🎹 **Music:** Playing acoustic guitar, piano, or practicing vocal arrangements.
-* ☕ **Social:** Exploring local coffee shops or trying out new ice cream spots.
+* ⛰️ **Hiking:** Often found on strenuous mountain trails (6–10 miles).
+* 🎹 **Music:** Playing acoustic guitar, piano, or practicing Carnatic singing.
+* ☕ **Social:** Catching up over ice cream or coffee.
 
 ### 📫 How to reach me
-- **LinkedIn:** [linkedin.com/in/<your-handle>](https://linkedin.com/in/<your-handle>)
-- **Portfolio:** [yourportfolio.com](https://yourportfolio.com)
-- **Email:** <your-email@example.com>
+- **LinkedIn:** [linkedin.com/in/adityarao](https://linkedin.com/in/adityarao)
+- **Email:** [your-email@example.com]
