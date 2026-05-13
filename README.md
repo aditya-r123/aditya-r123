@@ -16,7 +16,7 @@ I'm a **Software Engineer** specializing in Low-Level Systems and ML Infrastruct
 | **Tools** | Git, LaTeX, Vim, Overleaf |
 
 ### 📊 GitHub Stats
-![Aditya's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=aditya-r123&show_icons=true&theme=transparent&hide_rank=true&number_format=long)
+![Aditya's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=aditya-r123&show_icons=true&theme=transparent&hide_rank=true&number_format=long&show=prs_merged&include_all_commits=true)
 
 ### 📫 How to reach me
 - **LinkedIn:** [linkedin.com/in/-aditya-rao](https://linkedin.com/in/-aditya-rao)
