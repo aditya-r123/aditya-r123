@@ -11,7 +11,7 @@ I'm a **Software Engineer** specializing in Low-Level Systems and ML Infrastruct
 ### 💻 Technical Skills
 | Category | Tools & Languages |
 | :--- | :--- |
-| **Languages** | C, C++, Python, Java, JavaScript |
+| **Languages** | C, C++, Python, CUDA, Java, Verilog, Assembly, Bash |
 | **Infrastructure** | AWS, Docker, Kubernetes, Linux |
 | **Specialized** | Hardware Acceleration (FPGA), Distributed Systems, ML Infra |
 | **Tools** | Git, LaTeX, Vim, Overleaf |
