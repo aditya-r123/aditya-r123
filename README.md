@@ -18,6 +18,8 @@ I'm a **Software Engineer** specializing in Low-Level Systems and ML Infrastruct
 ### 📊 GitHub Stats
 ![Aditya's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=aditya-r123&show_icons=true&theme=transparent&hide_rank=true&number_format=long&show=prs_merged&include_all_commits=true)
 
+[![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=aditya-r123)](https://github.com/aditya-r123/github-readme-stats-fast&theme=transparent)
+
 ### 📫 How to reach me
 - **LinkedIn:** [linkedin.com/in/-aditya-rao](https://linkedin.com/in/-aditya-rao)
-- **Email:** [adityarao4@ucla.edu]
+- **Email:** adityarao4@ucla.edu
