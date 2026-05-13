@@ -1,4 +1,4 @@
-# Hi there, I'm Aditya! 👋
+# Hi there, I'm Aditya Rao! 👋
 
 I'm a **Software Engineer** specializing in Low-Level Systems and ML Infrastructure. I enjoy building efficient tools and diving into hardware-software co-design.
 
@@ -20,4 +20,4 @@ I'm a **Software Engineer** specializing in Low-Level Systems and ML Infrastruct
 
 ### 📫 How to reach me
 - **LinkedIn:** [linkedin.com/in/-aditya-rao](https://linkedin.com/in/-aditya-rao)
-- **Email:** [adityarao4@ucla.du]
+- **Email:** [adityarao4@ucla.edu]
