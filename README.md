@@ -12,7 +12,5 @@ I'm a Computer Science & Engineering Student at UCLA, and soon to be Software En
 
 [![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=aditya-r123)](https://github.com/aditya-r123/github-readme-stats-fast&theme=transparent)
 
-![snake gif] (https://github.com/aditya-r123/aditya-r123/blob/output/github-contribution-grid-snake.gif)
-
 ### 📫 Let's Connect
 - **LinkedIn:** [linkedin.com/in/-aditya-rao](https://linkedin.com/in/-aditya-rao)
