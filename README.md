@@ -4,7 +4,7 @@ I'm a **Software Engineer** specializing in Low-Level Systems and ML Infrastruct
 
 ### 🚀 What I'm working on
 ### 🚀 What I'm working on
-- 🔭 **Sift:** [sift-v0.vercel.app](https://sift-v0.vercel.app/) - A music discovery platform utilizing a swipe-based interface and a custom metadata-weighted recommendation engine.
+- 🔭 **Sift:** [sift-v0.vercel.app](https://sift-v0.vercel.app/) - A music discovery platform using a custom metadata-weighted recommendation engine.
 - 📊 **Graph Visualizer:** [graphvisualizer.com](https://graphvisualizer.com) - A high-performance tool for interactive graph data visualization and analysis.
 - 📈 **Stock Trading Bot:** [aditya-r123/trading-bot](https://github.com/aditya-r123/trading-bot) - An automated system for executing algorithmic trades, built with a focus on low-latency execution.
 
