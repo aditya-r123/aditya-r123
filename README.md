@@ -11,7 +11,7 @@ I'm a Computer Science & Engineering Student at UCLA, and soon to be Software En
 ### 📊 GitHub Stats
 <!-- ![Aditya's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=aditya-r123&show_icons=true&theme=transparent&hide_rank=true&number_format=long&show=prs_merged&include_all_commits=true) -->
 
-[![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=aditya-r123)](https://github.com/aditya-r123/github-readme-stats-fast&theme=transparent)
+<!-- [![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=aditya-r123)](https://github.com/aditya-r123/github-readme-stats-fast&theme=transparent) -->
 
 ### 📫 Let's Connect
 - **LinkedIn:** [linkedin.com/in/-aditya-rao](https://linkedin.com/in/-aditya-rao)
