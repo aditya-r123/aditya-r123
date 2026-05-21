@@ -8,7 +8,7 @@ I'm a Computer Science & Engineering Student at UCLA, and soon to be Software En
 - 📈 **Stock Trading Bot:** [aditya-r123/trading-bot](https://github.com/aditya-r123/trading-bot) - An automated system for executing algorithmic trades, built with a focus on low-latency execution.
 
 ### 📊 GitHub Stats
-![Aditya's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=aditya-r123&show_icons=true&theme=transparent&hide_rank=true&number_format=long&show=prs_merged&include_all_commits=true)
+<!-- ![Aditya's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=aditya-r123&show_icons=true&theme=transparent&hide_rank=true&number_format=long&show=prs_merged&include_all_commits=true) -->
 
 [![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=aditya-r123)](https://github.com/aditya-r123/github-readme-stats-fast&theme=transparent)
 
